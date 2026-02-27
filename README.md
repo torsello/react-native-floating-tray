@@ -1,4 +1,4 @@
-# react-native-dynamic-tray
+# react-native-floating-tray
 
 A dynamic, animated tray/modal system for React Native — inspired by [Family's tray system](https://benji.org/family-values).
 
@@ -33,7 +33,7 @@ Floating card modals with animated transitions, multi-step navigation, backdrop 
 ## Installation
 
 ```bash
-npm install react-native-dynamic-tray
+npm install react-native-floating-tray
 ```
 
 ### Peer Dependencies
@@ -60,7 +60,7 @@ import {
   DynamicTray,
   TrayRow,
   useDynamicTray,
-} from "react-native-dynamic-tray";
+} from "react-native-floating-tray";
 
 // 1. Wrap your app
 function App() {
