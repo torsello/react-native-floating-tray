@@ -1,0 +1,11 @@
+# Don't publish the example app or dev files to npm
+example/
+media/
+.github/
+.vscode/
+.idea/
+*.log
+.DS_Store
+tsconfig.json
+.gitignore
+.npmignore

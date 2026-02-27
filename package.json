@@ -1,0 +1,59 @@
+{
+  "name": "react-native-dynamic-tray",
+  "version": "0.1.0",
+  "description": "A dynamic, animated tray/modal system for React Native — inspired by Family's tray system",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "react-native": "src/index.ts",
+  "source": "src/index.ts",
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "tsc",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "react-native",
+    "tray",
+    "modal",
+    "bottom-sheet",
+    "animated",
+    "dynamic",
+    "floating",
+    "reanimated"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0",
+    "react-native-reanimated": ">=3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "react-native-safe-area-context": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0",
+    "react": "^18.2.0",
+    "react-native": "^0.73.0",
+    "react-native-reanimated": "^3.6.0",
+    "typescript": "^5.3.0"
+  }
+}
