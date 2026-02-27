@@ -32,11 +32,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/torsello/react-native-floating-tray.git"
   },
-  "homepage": "",
+  "homepage": "https://github.com/torsello/react-native-floating-tray#readme",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/torsello/react-native-floating-tray/issues"
   },
   "peerDependencies": {
     "react": ">=18.0.0",
