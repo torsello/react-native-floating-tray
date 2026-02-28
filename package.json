@@ -1,6 +1,6 @@
 {
   "name": "react-native-floating-tray",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A dynamic, animated tray/modal system for React Native — inspired by Family's tray system",
   "main": "dist/index.js",
   "module": "dist/index.js",
